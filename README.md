@@ -1,0 +1,1 @@
+It converts temperatures from Fahrenheit to Celsius and from Celsius to Fahrenheit.
